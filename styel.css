@@ -1,0 +1,93 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+.nav-cont a{
+    font-size: 18px;
+    color: #736c6c;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    ;
+}
+.nav-bag{
+    
+    background-color: #ffffff !important;}
+
+
+
+.caro-btn{
+    
+    background-color: rgb(52, 54, 54);
+    border: none;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.caro-tx{ 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #6c6666;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.caro-body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: image(hot-gadgets);
+}
+.see-all{
+    color: orange;
+    font-size: 25px;
+
+}
+.card-edit{
+    margin-top: 30px;
+    margin-bottom: 70px;
+    
+}
+.card{
+    border: none!important;
+    box-shadow: 5px 5px 10px rgb(230, 221, 221);
+    border-radius: 10px;
+    
+    
+}
+.card-pad{
+    margin-top: 20px; 
+    margin-bottom: 20px;
+} 
+.card img{
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  
+    
+}
+.card button{
+    margin: 20px;
+}
+.categories{
+    text-decoration: underline orange;
+    margin: 200px;
+    
+}
+.cat-1{ 
+    border: none;
+    box-shadow: 5px 5px 30px  rgb(232, 229, 229);
+    border-radius: 10px 0px 40px 0px ;
+    padding: 70px;
+   margin-bottom: 40px;
+  
+    
+    
+}
+.cat-2{
+    border: none;
+    box-shadow: 5px 5px 30px  rgb(229, 226, 226);
+    padding: 70px;
+    margin-bottom: 40px;
+    border-radius: 10px 0px 40px 0px ;
+    margin-top: 150px;
+    margin-left: 40px;
+
+}
